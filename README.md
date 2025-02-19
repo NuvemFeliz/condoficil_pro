@@ -1,1 +1,1 @@
-# condoficil sistema de gestão de condomínios de Centralidades
+# Condoficil - sistema de gestão de condomínios de Centralidades
